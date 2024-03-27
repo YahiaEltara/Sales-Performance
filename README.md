@@ -1,1 +1,2 @@
 # Sales-Performance
+Leveraging a Star Schema data model, I built an interactive Power BI dashboard to analyze sales and profit trends for a technology store over a four-year period. The data was meticulously cleansed and explored to extract meaningful insights into customer behavior and market performance. The dashboard utilizes various charts, tables, and slicers to provide users with a comprehensive view of key metrics and enable them to perform interactive analysis.
